@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parasop/DISCORD-BOT-V14.git"
+  },
+  "author": "paras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parasop/DISCORD-BOT-V14/issues"
+  },
+  "homepage": "https://github.com/parasop/DISCORD-BOT-V14#readme",
+  "dependencies": {
+    "discord.js": "^14.0.0-dev.1653480262-68d5169",
+    "dotenv": "^16.0.1"
+  }
+}
